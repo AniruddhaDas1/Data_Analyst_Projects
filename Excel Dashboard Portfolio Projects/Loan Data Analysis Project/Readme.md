@@ -1,6 +1,7 @@
-![Overview](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Excel%20Dashboard%20Portfolio%20Projects/Loan%20Data%20Analysis%20Project/Bank%20Report%20Overview.PNG)
 
 # Bank Loan Report Dashboard
+
+![Overview](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Excel%20Dashboard%20Portfolio%20Projects/Loan%20Data%20Analysis%20Project/Bank%20Report%20Overview.PNG)
 
 ## Project Objective
 The objective of this project was to create an interactive and comprehensive Bank Loan Report dashboard using Excel to visualize and analyze key performance indicators (KPIs) for bank loans. The dashboard provides insights into loan applications, funded amounts, received amounts, interest rates, debt-to-income (DTI) ratios, and more.
