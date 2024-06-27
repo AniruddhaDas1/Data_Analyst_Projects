@@ -1,4 +1,4 @@
-![dashboard image](/Data_Analyst_Projects/Excel Dashboard Portfolio Projects/CRM Sales Dashboard Projects/CRM Sales Dashboard Image.PNG)
+![Image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects/CRM%20Sales%20Dashboard%20Image.PNG)
 
 # CRM Sales Dashboard
 
