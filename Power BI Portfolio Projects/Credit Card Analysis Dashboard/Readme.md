@@ -1,6 +1,6 @@
 # Credit Card Transaction and Customer Analysis Dashboard
 
-![image]()
+![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Power%20BI%20Portfolio%20Projects/Credit%20Card%20Analysis%20Dashboard/Data/Credit%20Card%20Analysis%20-%20Transaction%20dashboard.PNG)
 
 ## Project Objective
 Analyze credit card transaction data and customer demographics to identify key performance indicators (KPIs) and derive actionable insights for business optimization.
@@ -23,6 +23,8 @@ Analyze credit card transaction data and customer demographics to identify key p
 7. Texas and New York are the top revenue-generating states.
 8. Married customers slightly outperform single customers in revenue generation.
 9. High-income group contributes the most to revenue.
+
+![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Power%20BI%20Portfolio%20Projects/Credit%20Card%20Analysis%20Dashboard/Data/Credit%20Card%20Analysis%20-%20Customer%20dashboard.PNG)
 
 ## Data Visualization
 The project includes various charts and graphs to visualize:
