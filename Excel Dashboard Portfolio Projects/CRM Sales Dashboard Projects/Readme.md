@@ -50,7 +50,7 @@ The objective of this project was to create an interactive and comprehensive CRM
 8. **Subsidiaries Overview**: A treemap visualization showcasing the distribution of revenue among different subsidiaries, including Acme Corporation, Bubba Gump, Golddex, and others.
 
 ## How to Use
-To view the dashboard, download the Excel file from the [GitHub repository]([https://github.com/yourusername/yourrepository](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects)). Open the file in Excel to interact with the dashboard and explore the visualizations.
+To view the dashboard, download the Excel file from the [GitHub repository](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects). Open the file in Excel to interact with the dashboard and explore the visualizations.
 
 ## Connect with Me
 - **LinkedIn**: [Goto LinkedIn Profile](https://www.linkedin.com/in/aniruddha1/)
