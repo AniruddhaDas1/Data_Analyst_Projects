@@ -12,7 +12,7 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of data
   - Top-performing products
   - Monthly sales trends
 
-[Check out the Sales Performance Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Sales%20Performance%20Dashboard)
+[Check out the Sales Performance Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard)
 
 ### 2. Financial Analysis Dashboard
 💰 **Objective**: To provide a detailed financial analysis of company revenue, expenses, and profits.
@@ -22,7 +22,7 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of data
   - Profit margins over time
   - Revenue vs. expenses trend
 
-[Check out the Financial Analysis Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Financial%20Analysis%20Dashboard)
+[Check out the Financial Analysis Dashboard]()
 
 ### 3. Customer Insights Dashboard
 👥 **Objective**: To gain insights into customer demographics, behavior, and satisfaction.
