@@ -1,6 +1,7 @@
-![Image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects/CRM%20Sales%20Dashboard%20Image.PNG)
 
 # CRM Sales Dashboard
+
+![Image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects/CRM%20Sales%20Dashboard%20Image.PNG)
 
 ## Project Objective
 The objective of this project was to create an interactive and comprehensive CRM sales dashboard using Excel to visualize and analyze key performance indicators (KPIs) for a company's sales data. The dashboard provides insights into total revenue, revenue by sector, average revenue per employee, company distribution by location, and more.
