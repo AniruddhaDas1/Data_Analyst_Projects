@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio Projects
+# 📊 Python Portfolio Projects
 
 Welcome to my Power BI Portfolio! This repository showcases a collection of data analysis projects, each featuring interactive and insightful dashboards created using Power BI. Explore the projects to see how data visualization can bring insights to life.
 
