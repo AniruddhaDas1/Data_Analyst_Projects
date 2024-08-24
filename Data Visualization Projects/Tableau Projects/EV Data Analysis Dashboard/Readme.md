@@ -1,5 +1,6 @@
 # EV Data Analysis Dashboard
 - **Live Project View**: [Tableau Public Link](https://public.tableau.com/views/EVSalesDashboard_17240815829080/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![imaege](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Data%20Visualization%20Projects/Tableau%20Projects/EV%20Data%20Analysis%20Dashboard/Data/EV%20Data%20Analysis%20Project%20Image.PNG)
 
 ## Overview
 
@@ -29,9 +30,10 @@ The dashboard includes several key visualizations:
 3. **Bar Charts**: Displaying sales by manufacturer, vehicle type, etc.
 4. **Comparative Pie Charts**: Comparing the share of EVs to traditional vehicles in the market.
 
-# PROBLEM STATEMENT -## KPI'S Requirement
+# PROBLEM STATEMENT -
 
-	### Total Vehicles:
+	## KPI'S Requirement	
+ 	### Total Vehicles:
 	- Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 
 	### Average Electric Range:
