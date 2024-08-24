@@ -26,6 +26,16 @@ Welcome to my Excel Dashboard Portfolio! Here, you'll find a collection of data 
 
 [Check out the Bank Loan Report Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Excel%20Dashboard%20Portfolio%20Projects/Loan%20Data%20Analysis%20Project)
 
+### 3. Marketing Data Analysis Dasboard
+🏦 **Objective**: To analyze and visualize marketing data with a detailed dashboard.
+- **KPI Requirements**: Total Spending, Average Spending, Top Education Level, Top Marital Status, Top Spending Year, Top Country, Total Site Visits
+- **Key Insights**:
+  - Total Spending per customer
+  - Customer Education Sementation
+  - Customer distribution etc.
+ 
+[Check out the Marketing Data Analysis Dasboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Excel%20Dashboard%20Portfolio%20Projects/Marketing%20Campaign%20Dashboard)
+    
 ## 📊 Key Skills Demonstrated
 - Data Visualization
 - KPI Tracking
