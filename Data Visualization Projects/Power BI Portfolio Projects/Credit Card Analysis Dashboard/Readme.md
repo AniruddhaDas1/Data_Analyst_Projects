@@ -24,7 +24,7 @@ Analyze credit card transaction data and customer demographics to identify key p
 8. Married customers slightly outperform single customers in revenue generation.
 9. High-income group contributes the most to revenue.
 
-![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Power%20BI%20Portfolio%20Projects/Credit%20Card%20Analysis%20Dashboard/Data/Credit%20Card%20Analysis%20-%20Customer%20dashboard.PNG)
+![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Credit%20Card%20Analysis%20Dashboard/Data/Credit%20Card%20Analysis%20-%20Transaction%20dashboard.PNG)
 
 ## Data Visualization
 The project includes various charts and graphs to visualize:
