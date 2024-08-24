@@ -45,7 +45,7 @@ Explore my SQL projects where I demonstrate my proficiency in database querying,
    - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/SQL%20Projects/Customer%20Segmentation)
 
 ## 📊 Key Skills Demonstrated
-- Data Visualization with Power BI and Excel
+- Data Visualization with Power BI, Tableau and Excel
 - KPI Tracking and Reporting
 - SQL Querying and Data Manipulation
 - Financial and Sales Analysis
