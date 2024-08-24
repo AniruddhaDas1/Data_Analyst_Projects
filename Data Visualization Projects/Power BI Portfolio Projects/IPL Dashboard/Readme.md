@@ -1,6 +1,6 @@
 # IPL Analysis Dashboard 🏏
 
-![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Power%20BI%20Portfolio%20Projects/IPL%20Dashboard/Data/IPL%20Dashboard%20image.PNG)
+![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/IPL%20Dashboard/Data/IPL%20Dashboard%20image.PNG)
 
 ## Project Objective
 Created an interactive Power BI dashboard to analyze Indian Premier League (IPL) 2019 season data, providing key performance indicators (KPIs) and insights for teams and players.
