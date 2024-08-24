@@ -50,7 +50,7 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of data
 - **LinkedIn**: [Goto LinkedIn Profile](https://www.linkedin.com/in/aniruddha1/)
 - **Portfolio**: [Visit Website](https://linktr.ee/aniruddha_das)
 - **GitHub**: [Project Repository](https://github.com/AniruddhaDas1)
-- **Call**: [Mobile](+919123987124)
+- **Call**: [Mobile](tel:+919123987124)
 
 Feel free to reach out for any questions or collaborations!
 
