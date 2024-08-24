@@ -1,6 +1,6 @@
 # PizzaHut Sales Analysis Dashboard
 
-![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard/Data/Pizza%20Sales%20Images/Pizzahut%20Dashboard%20home.PNG)
+![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard/Data/Pizza%20Sales%20Images/Pizzahut%20Dashboard%20home.PNG)
 
 ## Project Objective
 Analyze PizzaHut sales data from Jan '15 to Dec '15 to identify key performance indicators (KPIs) and derive actionable insights for business optimization.
@@ -21,7 +21,7 @@ Analyze PizzaHut sales data from Jan '15 to Dec '15 to identify key performance 
 6. Thai Chicken Pizza is the top revenue generator, while Classic Deluxe leads in quantity and total orders.
 7. Brie Carre Pizza is the worst performer across revenue, quantity, and total orders.
 
-![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard/Data/Pizza%20Sales%20Images/Pizzahut%20Dashboard%20-%20best%20and%20worst%20seller.PNG)
+![image](https://github.com/AniruddhaDas1/Data_Analyst_Projects/blob/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard/Data/Pizza%20Sales%20Images/Pizzahut%20Dashboard%20-%20best%20and%20worst%20seller.PNG)
 
 ## Data Visualization
 The project includes various charts and graphs to visualize:
