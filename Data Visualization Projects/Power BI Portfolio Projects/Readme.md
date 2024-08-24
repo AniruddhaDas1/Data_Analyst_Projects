@@ -12,7 +12,7 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of data
   - Top-performing Cards
   - Transaction trends
 
-[Check out the Sales Performance Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard)
+[Check out the Credit Card Analysis Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Credit%20Card%20Analysis%20Dashboard)
 
 ### 2. IPL Analysis Dashboard
 💰 **Objective**: Created an interactive Power BI dashboard to analyze Indian Premier League (IPL) 2019 season data, providing key performance indicators (KPIs) and insights for teams and players.
@@ -22,7 +22,7 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of data
   - Most Runs over time
   - Toss decisions impact trend
 
-[Check out the Financial Analysis Dashboard]()
+[Check out the IPL Analysis Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/IPL%20Dashboard)
 
 ### 3. PizzaHut Sales Analysis Dashboard
 👥 **Objective**: To gain insights into customer demographics, behavior, and satisfaction.
@@ -32,7 +32,7 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of data
   - Satisfaction trends
   - Pizza Cateory analysis
 
-[Check out the Customer Insights Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Customer%20Insights%20Dashboard)
+[Check out the PizzaHut Sales Analysis Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard)
 
 ## 📊 Key Skills Demonstrated
 - Data Visualization with Power BI
