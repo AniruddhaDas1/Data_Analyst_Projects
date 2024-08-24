@@ -82,16 +82,6 @@ The dashboard includes several key visualizations:
 - **Tableau Desktop/Reader**: To view and interact with the dashboard, you need Tableau Desktop or Tableau Reader installed.
 - **Data Refresh**: Ensure that the data connections are properly configured to refresh the dashboard with the latest data.
 
-## Getting Started
-
-1. Clone the repository to your local machine.
-2. Open the `.twb` file in Tableau.
-3. Explore the dashboard by interacting with the various visualizations and filters.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Data providers and any third-party libraries or tools used in this project.
