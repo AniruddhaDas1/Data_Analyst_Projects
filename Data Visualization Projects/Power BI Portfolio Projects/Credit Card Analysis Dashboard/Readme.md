@@ -33,7 +33,7 @@ The project includes various charts and graphs to visualize:
 - Weekly revenue trends by gender
 
 ## Tools Used
-- [Specify the tools/technologies used for this dashboard]
+- Power BI
 
 ## Links
 - **LinkedIn**: [Goto LinkedIn Profile](https://www.linkedin.com/in/aniruddha1/)
