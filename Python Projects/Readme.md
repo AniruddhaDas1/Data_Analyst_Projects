@@ -13,7 +13,7 @@ Welcome to my Python Portfolio! This repository showcases a collection of data a
   - Recognizing trends in stock availability and inventory turnover.
   - Pinpointing high-demand regions or locations.
 
-[Check out the Sales Performance Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard)
+[Check out the Sales Performance Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Python%20Projects/Perfume%20Sales%20Data%20Analysis%20Projects)
 
 
 ## 📊 Key Skills Demonstrated
