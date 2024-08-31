@@ -7,7 +7,7 @@ Welcome to my SQL Portfolio! Here, you'll find a collection of data analysis pro
 ### 1. Nashville Real Estate Data Analysis
 🔍 **Objective**: To create a comprehensive analysis for Nashville DB data.
 
-[Check out the CRM Sales Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects)
+[Check out the Nashville Real Estate Data Analysis]([https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Excel%20Dashboard%20Portfolio%20Projects/CRM%20Sales%20Dashboard%20Projects](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/SQL%20Portfolio%20Projects/Nashville%20DB%20Analysis))
 
 
     
