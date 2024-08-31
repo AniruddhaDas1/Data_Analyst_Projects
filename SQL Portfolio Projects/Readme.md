@@ -5,7 +5,7 @@ Welcome to my SQL Portfolio! Here, you'll find a collection of data analysis pro
 ## 📁 Projects Overview
 
 ### 1. Nashville Real Estate Data Analysis
-🔍 **Objective**: To create a comprehensive analysis for Nashville DB data.
+🔍 **Objective**: Perform in-depth analysis of Real Estate data using SQL queries.
 
 [Check out the Nashville Real Estate Data Analysis](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/SQL%20Portfolio%20Projects/Nashville%20DB%20Analysis)
 
