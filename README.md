@@ -22,6 +22,20 @@ Explore my interactive and insightful dashboards created using Power BI. These p
    - 👥 **Objective**: Gain insights into customer demographics, behavior, and satisfaction.
    - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Customer%20Insights%20Dashboard)
 
+### 📈 Tableau Portfolio Projects
+Explore my interactive and insightful dashboards created using Tableau. These projects demonstrate my skills in data visualization and KPI tracking.
+
+1. **EV Data Analysis Dashboard** 
+   - 🔍 **Objective**: Analyze and visualize various aspects of sales trends, geographic distribution, and other key metrics relevant to the EV industry.
+   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Tableau%20Projects/EV%20Data%20Analysis%20Dashboard)
+
+### 📈 Python Portfolio Projects
+Explore insightful analysis created using Python library Pandas, Numpy, Seaborn & Matplotlob. These projects demonstrate my skills in data visualization and KPI tracking.
+
+1. **Perfume Sales Data Analysis Projects** 
+   - 🔍 **Objective**: Analyze and visualize sales performance, pricing strategies, and inventory management to optimize revenue and stock levels for different perfume brands in an e-commerce setting.
+   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Python%20Projects/Perfume%20Sales%20Data%20Analysis%20Projects)
+     
 ### 📊 Excel Dashboard Portfolio Projects
 These projects highlight my expertise in creating interactive dashboards using Excel to visualize and analyze key performance indicators.
 
@@ -36,13 +50,11 @@ These projects highlight my expertise in creating interactive dashboards using E
 ### 🗄️ SQL Projects
 Explore my SQL projects where I demonstrate my proficiency in database querying, data manipulation, and analysis.
 
-1. **Sales Data Analysis**
-   - 🔍 **Objective**: Perform in-depth analysis of sales data using SQL queries.
-   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/SQL%20Projects/Sales%20Data%20Analysis)
+1. **Real Estate-Nashville DB Data Analysis**
+   - 🔍 **Objective**: Perform in-depth analysis of Real Estate data using SQL queries.
+   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/SQL%20Portfolio%20Projects/Nashville%20DB%20Analysis)
 
-2. **Customer Segmentation**
-   - 👥 **Objective**: Segment customers based on purchasing behavior and demographics.
-   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/SQL%20Projects/Customer%20Segmentation)
+
 
 ## 📊 Key Skills Demonstrated
 - Data Visualization with Power BI, Tableau and Excel
