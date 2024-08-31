@@ -1,50 +1,28 @@
 # 📊 Python Portfolio Projects
 
-Welcome to my Power BI Portfolio! This repository showcases a collection of data analysis projects, each featuring interactive and insightful dashboards created using Power BI. Explore the projects to see how data visualization can bring insights to life.
+Welcome to my Python Portfolio! This repository showcases a collection of data analysis projects, each featuring insightful analysis created using Python library Pandas, Numpy, Seaborn & Matplotlob. Explore the projects to see how data analysis & visualization can bring insights to life.
 
 ## 📁 Projects Overview
 
-### 1. Sales Performance Dashboard
-🔍 **Objective**: To analyze and visualize sales performance across different regions and products.
-- **Key Metrics**: Total Sales, Sales by Region, Sales by Product Category
+### 1. Perfume Sales Data Analysis
+🔍 **Objective**: To analyze sales performance, pricing strategies, and inventory management to optimize revenue and stock levels for different perfume brands in an e-commerce setting.
+- **Key Metrics**: Total Sales, Revenue, Average Price, Sales by Region, Sales by Product Category etc.
 - **Key Insights**:
-  - Regional sales comparison
-  - Top-performing products
-  - Monthly sales trends
+  - Identifying the most and least profitable brands.
+  - Understanding the impact of pricing on sales volume.
+  - Recognizing trends in stock availability and inventory turnover.
+  - Pinpointing high-demand regions or locations.
 
 [Check out the Sales Performance Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard)
 
-### 2. Financial Analysis Dashboard
-💰 **Objective**: To provide a detailed financial analysis of company revenue, expenses, and profits.
-- **Key Metrics**: Total Revenue, Total Expenses, Net Profit
-- **Key Insights**:
-  - Expense breakdown by category
-  - Profit margins over time
-  - Revenue vs. expenses trend
-
-[Check out the Financial Analysis Dashboard]()
-
-### 3. Customer Insights Dashboard
-👥 **Objective**: To gain insights into customer demographics, behavior, and satisfaction.
-- **Key Metrics**: Customer Count, Satisfaction Score, Demographic Distribution
-- **Key Insights**:
-  - Customer segmentation
-  - Satisfaction trends
-  - Demographic analysis
-
-[Check out the Customer Insights Dashboard](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Customer%20Insights%20Dashboard)
 
 ## 📊 Key Skills Demonstrated
-- Data Visualization with Power BI
+- Data Visualization with Python
 - KPI Tracking and Reporting
 - Trend and Pattern Analysis
 - Financial Metrics and Analysis
 - Customer Behavior Insights
 
-## 🚀 How to Use
-1. Navigate to the specific project directory from the links above.
-2. Open the Power BI file (.pbix) in Power BI Desktop.
-3. Explore the interactive dashboards and analyze the data.
 
 ## 🌟 Connect with Me
 - **LinkedIn**: [Goto LinkedIn Profile](https://www.linkedin.com/in/aniruddha1/)
