@@ -10,17 +10,17 @@ Welcome to my Data Analyst Projects repository! This collection showcases my wor
 ### 📈 Power BI Portfolio Projects
 Explore my interactive and insightful dashboards created using Power BI. These projects demonstrate my skills in data visualization and KPI tracking.
 
-1. **Sales Performance Dashboard** 
-   - 🔍 **Objective**: Analyze and visualize sales performance across regions and products.
-   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Sales%20Performance%20Dashboard)
+1. **Credit Card Analysis Dashboard** 
+   - 🔍 **Objective**: Analyze credit card transaction data and customer demographics to identify key performance indicators (KPIs) and derive actionable insights for business optimization.
+   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Credit%20Card%20Analysis%20Dashboard)
 
-2. **Financial Analysis Dashboard**
-   - 💰 **Objective**: Provide a detailed financial analysis of revenue, expenses, and profits.
-   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Financial%20Analysis%20Dashboard)
+2. **IPL Analytics Dashboard**
+   - 💰 **Objective**: Created an interactive Power BI dashboard to analyze Indian Premier League (IPL) 2019 season data, providing key performance indicators (KPIs) and insights for teams and players.
+   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/IPL%20Dashboard)
 
-3. **Customer Insights Dashboard**
-   - 👥 **Objective**: Gain insights into customer demographics, behavior, and satisfaction.
-   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Power%20BI%20Portfolio%20Projects/Customer%20Insights%20Dashboard)
+3. **Pizza Hut Sales Dashboard**
+   - 👥 **Objective**: Analyze PizzaHut sales data from Jan '15 to Dec '15 to identify key performance indicators (KPIs) and derive actionable insights for business optimization.
+   - [View Project](https://github.com/AniruddhaDas1/Data_Analyst_Projects/tree/main/Data%20Visualization%20Projects/Power%20BI%20Portfolio%20Projects/Pizza%20Hut%20Sales%20Dashboard)
 
 ### 📈 Tableau Portfolio Projects
 Explore my interactive and insightful dashboards created using Tableau. These projects demonstrate my skills in data visualization and KPI tracking.
